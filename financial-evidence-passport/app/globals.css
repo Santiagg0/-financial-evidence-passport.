@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{font-family:Arial,sans-serif;color:#18314a;background:#f3f7fa}body{margin:0}button,input,select{font:inherit}button{cursor:pointer}.card{background:white;border:1px solid #e0e8ef;border-radius:18px;padding:22px;box-shadow:0 8px 28px #0b30540a}.btn{border-radius:10px;padding:11px 17px;background:#087d78;color:white;font-weight:700}.field{width:100%;border:1px solid #cad8e1;border-radius:9px;padding:10px;background:white}.muted{color:#5b7184}
